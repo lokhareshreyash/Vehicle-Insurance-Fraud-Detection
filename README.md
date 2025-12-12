@@ -79,7 +79,7 @@ In this project, I:
 ---
 
 ## 📌 Recommendations / Future Improvements
-- Try advanced models like **XGBoost, LightGBM, CatBoost**
+- Try advanced models like **XGBoost, LightGBM**
 - Tune model hyperparameters for better performance
 - Optimize classification threshold instead of using default 0.5
 - Add feature importance and SHAP for model explainability
